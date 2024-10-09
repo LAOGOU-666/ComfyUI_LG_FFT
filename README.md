@@ -16,5 +16,6 @@ band_pass 带通滤波，保留low_cutoff和high_cutoff区间的频率，high_cu
 常用修复网纹使用低通滤波，其他两个滤波方式也保留下来，也许会有特别的用途
 
 # 该节点可与原作者fssorc的FFT节点通用，在此感谢原作者的无私分享！
-![workflow](https://github.com/user-attachments/assets/03760628-3fde-46d7-bf23-5a0fcc746939)
-![87206374f4e2c6a6439311cd81ca5ff](https://github.com/user-attachments/assets/09d9d6f2-a62a-47db-8e00-686582544d1b)
+
+![Image](./workflow.png)
+![Image](./img.png)
