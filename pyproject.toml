@@ -1,6 +1,7 @@
+
 [project]
 name = "comfyui_lg_fft"
-description = ""
+description = "Implementation of Fast Fourier Transform in COMFYUI"
 version = "1.0.0"
 license = {file = "LICENSE"}
 dependencies = ["torch", "torchvision", "numpy"]
@@ -10,6 +11,6 @@ Repository = "https://github.com/LAOGOU-666/ComfyUI_LG_FFT"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "laogou666"
 DisplayName = "ComfyUI_LG_FFT"
 Icon = ""
