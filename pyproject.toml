@@ -1,3 +1,4 @@
+
 [project]
 name = "comfyui_lg_fft"
 description = "Implementation of Fast Fourier Transform in COMFYUI"
